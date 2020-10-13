@@ -1,8 +1,13 @@
 ---
 layout: page
-title: About
+title: 
 permalink: /about/
 ---
+
+![Obersee](/assets/header.jpg)
+<div class="profil">
+	<img src="/assets/profil.jpg"/>
+</div>
 
 # Über Mich
 
