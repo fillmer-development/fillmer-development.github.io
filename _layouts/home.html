@@ -1,0 +1,18 @@
+---
+layout: page
+---
+
+<div class="home">
+    {{ content }}
+
+
+    {% for peek in site.peeks | sort 'order' %}
+    {% if peek.title %}
+    <h2>
+        {{peek.title}}
+    </h2>
+    {% endif %}
+    {{peek.content | markdownify}}
+    {% endfor%}
+
+</div>
