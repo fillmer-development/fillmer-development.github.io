@@ -39,6 +39,6 @@ Während des Sprints können Sie außerdem immer den aktuellen Stand verfolgen.
 ### Kontextebezogene Kommunikation
 
 In dieser Übersicht ist es außerdem möglich, einzelne Anforderungen direkt zu kommentieren.
-So werden Missverständnisse vermieden und die Kommunikation verläuft viel effizienter, da nicht erst erklärt werden muss, um welche Anforderung ee eigentlich gerade geht. 
+So werden Missverständnisse vermieden und die Kommunikation verläuft viel effizienter, da nicht erst erklärt werden muss, um welche Anforderung es eigentlich gerade geht. 
 
 ![Kommentaransicht](assets/kommunikation.png)
