@@ -5,4 +5,9 @@ title: ""
 avatar: profil.jpg
 ---
 
-Schöner Einleitungstext der die Leute richtig catcht
+# Willkommen
+
+Hallo und willkommen auf meiner Seite. Diese befindet sich noch im Aufbau. 
+Kommen Sie gerne später wieder und freuen Sie sich auf neue Inhalte.
+
+Bis bald!
