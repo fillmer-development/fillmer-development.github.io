@@ -3,6 +3,7 @@ layout: page
 title: Über Mich
 permalink: /about/
 header: /assets/header.jpg
+profile: profil.jpg
 ---
 
 Hallo, ich bin 

@@ -1,11 +1,9 @@
 ---
-layout: character
+layout: page
 order: 1
-title: ""
-avatar: profil.jpg
+profile: profil.jpg
+title: Willkommen
 ---
-
-# Willkommen
 
 Hallo und willkommen auf meiner Seite. Diese befindet sich noch im Aufbau. 
 Kommen Sie gerne später wieder und freuen Sie sich auf neue Inhalte.

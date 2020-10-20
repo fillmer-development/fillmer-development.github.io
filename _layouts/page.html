@@ -2,6 +2,14 @@
 layout: default
 ---
 <article class="post">
+    <style>
+        .profile {
+            width: 200px;
+            border-radius: 100px;
+            overflow: hidden;
+            float: right;
+        }
+    </style>
 
     <header class="post-header">
         <img class="header-image" src="{{ page.header }}" alt="{{ page.header }} ">
@@ -10,6 +18,9 @@ layout: default
     </header>
 
     <div class="post-content">
+        {% if page.profile %}
+        <img class='profile' src="/assets/{{page.profile}}" alt="Profilbild">
+        {% endif%}
         {{ content }}
     </div>
 
