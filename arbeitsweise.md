@@ -4,41 +4,62 @@ title: Wie ich arbeite
 header: /assets/workspace.jpg
 ---
 
-## Modernes Projektmanagement
+Hier können Sie sehen, wie eine Zusammenarbeit mit mir aussieht. 
 
-Neben der eigentlichen Programmierung einer Software spielt auch das Projektmanagement eine wichtige Rolle.
-Im Laufe der Jahre gab es viele Trends und Ideen, wie man ein Software-Projekt am besten auf die Beine stellt.
-Ein sehr moderner Ansatz ist Scrum, die Grundlage für meine eigene Art des Projektmanagements. 
 
-> Scrum ist eine agile Methode, bei der es darum geht, dem Kunden möglichst schnell das zu liefern, was er braucht, ohne alles vorab bis ins kleinste Detail zu planen. 
+## Die Vorgehensweise
 
-### Konkret finden folgende Schritte dabei statt:
+1. Wir beginnen mit Ihrer Vision eines neuen Produktes
+und grenzen einzelne Anforderungen voneinander ab.
+1. Im nächsten Schritt legen wir fest, welche Funktionen in das erste
+Teilprodukt einfließen sollen und
+verfeinern fortwährend den Anfordnungskatalog.
+1. In einem festgelegten Zeitraum (z.B. 2 Wochen) entsteht die erste
+Version ihrer Software und Sie können
+sich jederzeit über den aktuellen Stand
+informieren.
+1. Am Ende dieses Zeitraums erhalten
+Sie die erste Version ihrer
+Software und können direkt Feedback, neue Ideen oder Änderungswünsche einbringen.
 
-1. Alle Anforderungen werden aufgenommen und in das sogenannte `Backlog` eingetragen.
-2. Ein Teil der Anforderungen wird für das erste Teilprodukt, auch `Iteration` genannt, ausgewählt.
-    - Ziel ist es, dass dieses Teilprodukt bereits produktiv einsetzbar ist.
-    - Ausgewählte Anforderungen stehen im `Sprint Backlog`.
-3. Es wird ein Zeitraum (z.B. 2 Wochen) festgelegt, in dem das Teilprodukt realisiert wird. Das ist der erste `Sprint`.
-4. Während des Sprints wird eine Übersicht gepflegt, welche Aufgaben fertig sind, gerade bearbeitet werden oder noch ausstehen
-5. Am Ende des Sprints wird das Teilprodukt präsentiert. Hier haben Sie die Möglichkeit, direkt neue Ideen einzubringen, Features zu testen und generell Feedback zu geben. 
+Die Punkte 2 bis 4 wiederholen sich dann solange, bis Ihr Produkt fertig ist
 
-Die Schritte 2. bis 5. werden dann solange wiederholt, bis das Projekt fertig ist und Sie ein Produkt in den Händen halten, was Ihnen wirklich nützt.
+## Ihre Vorteile auf einen Blick
 
-### Theorie ist gut, ein Beispiel ist besser
+Ich setze auf agiles Projektmanagement und klare Kommunikation an den richtigen Stellen.
+ 
+### Transparent 
+> Sehen Sie jederzeit wie es um ihr Projekt steht.
+    
+### Produktiv 
+> Profitieren Sie direkt von jedem neuen Feature. Sie erhalten sofort Zugriff auf die Teile ihrer Anwendung, die schon fertig sind
 
-Scrum ist zwar nicht sehr umfangreich, aber es bringt einige Konzepte mit sich, die vielleicht nicht direkt verständlich sind. Daher hier ein Beispiel:
+### Dynamisch 
+> Neue Ideen und Änderungen sind stets willkommen.
 
-Angenommen, Sie möchten ein Soziales Netzwerk für Hundebesitzer gründen. Die Besitzer sollen sich austauschen können, neue hundefreundliche Orte finden und auch Verkäufer von Hundeprodukten sollen einen Platz auf der Plattform haben. 
+## Ein Beispiel 
 
-In der ersten Iteration sollen dabei Grundfunktionalitäten und Nutzerprofile enthalten sein.
+Angenommen, Sie möchten ein soziales Netzwerk für Hundebesitzer gründen. 
+Die Besitzer sollen sich austauschen können, neue, hundefreundliche Orte finden und auch Verkäufer von Hundeprodukten sollen einen Platz auf der Plattform haben. 
+
+Im ersten Teilprodukt sollen dabei Grundfunktionalitäten und Nutzerprofile enthalten sein.
+
+Daraus entsteht dann die folgende Übersicht, auf der Sie jederzeit Zugriff haben:
 
 ![Scrum Board](/assets/board.png)
 
-Während des Sprints können Sie außerdem immer den aktuellen Stand verfolgen. 
+Hier sehen Sie alle Anforderungen an ihre neue Anwendung, sortiert nach dem jeweiligem Fortschritt. 
+Dabei werden folgende Schritte durchlaufen:
 
-### Kontextebezogene Kommunikation
+**Backlog** - Hier wird alles gesammelt, was umgesetzt werden soll
+
+**Sprint Backlog** - Alle Aufgaben für den aktuellen Zeitabschnitt
+
+**In Arbeit**
+
+**Fertig**
 
 In dieser Übersicht ist es außerdem möglich, einzelne Anforderungen direkt zu kommentieren.
-So werden Missverständnisse vermieden und die Kommunikation verläuft viel effizienter, da nicht erst erklärt werden muss, um welche Anforderung es eigentlich gerade geht. 
+So werden Missverständnisse vermieden und die Kommunikation verläuft viel effizienter, da nicht erst erklärt werden muss, um welchen Bereich es eigentlich gerade geht. 
 
 ![Kommentaransicht](assets/kommunikation.png)
