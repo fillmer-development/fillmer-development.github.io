@@ -1,0 +1,41 @@
+---
+layout: page
+---
+
+{{ content }}
+<div class="projects">
+
+    {% for project in site.data.projects | sort 'order' %}
+    <div class="project">
+        <h2>{{project.title}}</h2>
+        <div class="languages">
+            {%for lang in project.languages%}
+            <small>
+                <em>{{site.data.technologies[lang].label}}</em>
+                <img src="{{site.data.technologies[lang].icon}}" alt="{{site.data.technologies[lang].label}}">
+            </small>
+            {% endfor %}
+        </div>
+        <div class="link">
+            {% if project.link %}
+            <a target="__blank" href="{{project.link.url}}">{{project.link.content}} >></a>
+            {% endif%}
+        </div>
+        <div class="content">
+            <div class="gallery">
+                {% for image in project.images %}
+                <div>
+                    <img src="/assets/{{image}}" alt="{{image}}">
+                </div>
+                {% endfor %}
+            </div>
+            <div class="text">
+                {%for paragraph in project.description%}
+                <p>{{paragraph}}</p>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    {% endfor%}
+
+</div>

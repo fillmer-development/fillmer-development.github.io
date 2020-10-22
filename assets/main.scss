@@ -3,3 +3,8 @@
 @import "{{ site.theme }}";
 @import "style";
 @import "portfolio";
+@import "gallery";
+
+*{
+box-sizing: border-box;
+}

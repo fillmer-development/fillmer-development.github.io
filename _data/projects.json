@@ -1,0 +1,40 @@
+[
+    {
+        "title": "WeightGraph",
+        "images": [
+            "weightgraph_home.png",
+            "weightgraph_splits.png",
+            "weightgraph_workout.png"
+        ],
+        "languages": [
+            "react"
+        ],
+        "description": [
+            "Dieses Projekt ist für einen Freund entstanden, der eine einfache Möglichkeit suchte, seine Trainingseinheiten zu protokollieren.",
+            "Die Anwendung ermöglicht die Erstellung von Trainingseinheiten, das Eintragen von Gewichten während des Trainings und das Anzeigen der Trainingshistorie.",
+            "Alle Daten werden dabei auf dem Gerät gespeichert, können aber auch über Dropbox synchronisiert werden."
+        ],
+        "link": {
+            "url": "https://fillmer-development.github.io/weightGraph/",
+            "content": "zur Live-Demo"
+        }
+    },
+    {
+        "title": "Image Processing Server",
+        "images": [
+            "image_processing.gif"
+        ],
+        "languages": [
+            "python"
+        ],
+        "link": {
+            "url": "https://github.com/fillmer-development/image_processing_server",
+            "content": "Zum öffentlichen Quelltext"
+        },
+        "description": [
+            "Bilder sind ein fundamentaler Bestandteil von Webseiten, Apps und anderen Medien. Daher ist es wichtig, dass Bilder schnell und in der richtigen Auflösung geladen werden können, gerade auf mobilen Endgeräten.",
+            "Außerdem ist es so möglich, dem Nutzer auch bei langsamen Verbindungen eine Vorschau des Bildes zu präsentieren.",
+            "Der Image Processing Server ermöglicht genau das. Bilder können in voller Auflösung hochgeladen werden und in Echtzeit über eine Url abgerufen und manipuliert werden."
+        ]
+    }
+]

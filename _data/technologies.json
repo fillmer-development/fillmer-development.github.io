@@ -1,0 +1,10 @@
+{
+    "react": {
+        "label": "React.js",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+    },
+    "python": {
+        "label": "Python",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+    }
+}
