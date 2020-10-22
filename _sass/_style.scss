@@ -4,8 +4,9 @@
 }
 
 .profile {
-    height: 50px;
-    width: 50px;
-    border-radius: 50px;
+    max-height: 200px;
+    height: 100%;
+    border-radius: 100%;
     overflow: hidden;
+    float: right
 }
