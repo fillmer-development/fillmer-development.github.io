@@ -29,12 +29,31 @@
         ],
         "link": {
             "url": "https://github.com/fillmer-development/image_processing_server",
-            "content": "Zum öffentlichen Quelltext"
+            "content": "zum öffentlichen Quelltext"
         },
         "description": [
-            "Bilder sind ein fundamentaler Bestandteil von Webseiten, Apps und anderen Medien. Daher ist es wichtig, dass Bilder schnell und in der richtigen Auflösung geladen werden können, gerade auf mobilen Endgeräten.",
-            "Außerdem ist es so möglich, dem Nutzer auch bei langsamen Verbindungen eine Vorschau des Bildes zu präsentieren.",
-            "Der Image Processing Server ermöglicht genau das. Bilder können in voller Auflösung hochgeladen werden und in Echtzeit über eine Url abgerufen und manipuliert werden."
+            "Dieses Programm ist als Nebenprojekt für eine komplexere Anwendung entstanden",
+            "Es ermöglicht das Speichern und einfache Manipulieren von Bildern, ohne dabei lange Wartezeiten zu verursachen.",
+            "Gerade auf Webseiten kann man damit langsame Verbindungen kompensieren und die Bilder in verschiedenen Auflösungen präsentieren.",
+            "Auch Sie können kostenlos von dieser Technologie profitieren."
+        ]
+    },
+    {
+        "title": "TMU-Planer",
+        "images": [
+            "tmu-planer.png"
+        ],
+        "languages": [
+            "react"
+        ],
+        "link": {
+            "url": "https://fillmer-development.github.io/tmu-planer-live/",
+            "content": "zur Anwendung"
+        },
+        "description": [
+            "Der Kunde wollte eine sehr schlichte Anwendung, mit der er Arbeitsaufwände anhand von <em>time-measurement-units (TMU)</em> planen kann",
+            "Die TMU-Daten werden zunächst in das Programm eingelesen, um im nächsten Schritt zur Erstellung von Arbeitsplänen verwendet werden zu können.",
+            "<em>Wenn Sie die Anwendung gerne ausprobieren möchten, finden Sie <a download target='window' href='/assets/tmu-grunddaten.csv'>hier</a> passende Beispieldaten dazu. Diese können im Menü (Zahnrad oben rechts klicken) eingefügt werden.</em>"
         ]
     }
 ]
