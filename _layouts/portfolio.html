@@ -3,39 +3,24 @@ layout: page
 ---
 
 {{ content }}
-<div class="projects">
+<div class="portfolio">
 
-    {% for project in site.data.projects | sort 'order' %}
-    <div class="project">
-        <h2>{{project.title}}</h2>
-        <div class="languages">
-            {%for lang in project.languages%}
-            <small>
-                <em>{{site.data.technologies[lang].label}}</em>
-                <img src="{{site.data.technologies[lang].icon}}" alt="{{site.data.technologies[lang].label}}">
-            </small>
-            {% endfor %}
-        </div>
-        <div class="link">
-            {% if project.link %}
-            <a target="__blank" href="{{project.link.url}}">{{project.link.content}} >></a>
-            {% endif%}
-        </div>
+    {% for item in site.data.portfolio %}
+    <div class="item">
+        <h2>{{item.title}}</h2>
+
         <div class="content">
-            <div class="gallery">
-                {% for image in project.images %}
-                <div>
-                    <img src="/assets/{{image}}" alt="{{image}}">
-                </div>
-                {% endfor %}
+            <div class="image">
+                <img src="/assets/{{item.image}}" alt="{{image}}">
             </div>
             <div class="text">
-                {%for paragraph in project.description%}
+                {%for paragraph in item.description%}
                 <p>{{paragraph}}</p>
                 {% endfor %}
             </div>
         </div>
     </div>
     {% endfor%}
+</div>
 
 </div>

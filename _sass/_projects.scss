@@ -1,0 +1,39 @@
+.projects{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+
+    .project{
+        margin: 1em auto;
+        border: 1px solid #ccc;
+        border-radius: .25em;
+        padding: 2em 1em;
+        position: relative;
+
+        .languages{
+            position: absolute;
+            top: .5em;
+            right: .5em;
+            img{
+                height: 1rem
+            }
+        }
+
+        .link{
+            position: absolute;
+            bottom: .5em;
+            right: .5em;
+        }
+
+        .content{
+            display: flex;
+            align-items: center;
+            flex-flow: row wrap;
+
+            .gallery, .text{
+                flex: 1;
+                flex-basis: 200px;
+            }
+        }
+    }
+}
