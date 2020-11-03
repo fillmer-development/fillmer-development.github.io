@@ -1,10 +1,22 @@
 {
     "react": {
         "label": "React.js",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1920px-React.svg.png"
     },
     "python": {
         "label": "Python",
         "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+    },
+    "elasticsearch": {
+        "label": "Elastic Search",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/2560px-Elasticsearch_logo.svg.png"
+    },
+    "aws": {
+        "label": "Amazon Web Services",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png"
+    },
+    "postgres": {
+        "label": "Postgres SQL",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png"
     }
 }

@@ -13,12 +13,24 @@
 
         .content{
             .image{
+                padding: 1em;
                 width: 33%;
                 float: right;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+
+                img{
+                    width: 100%;
+                    height: auto;
+                }
             }
         }
     }
     .item:nth-child(2n+1) .image{
         float: left;
+    }
+    .item:nth-child(3n){
+        flex-basis: 100%;
     }
 }

@@ -1,30 +1,42 @@
 [
     {
         "title": "Python",
+        "tech": "python",
         "description": [
-            "lorem ssdfljsdaölkjsad ölkjölkjadsö lkasdjsda asd lkasdjsda asd lkasdjsda asd lkasdjsda asd lkasdjsda asd lkasdjsda asd lkasdjsda asd fasdf sdaf asdfasdf asdfasfdsaddf asfasd fasdfas"
-        ],
-        "image": "board.png"
+            "Die wohl vielseitigste Programmiersprache, die es gibt.",
+            "Ob Webserver, Data Science oder Robotersteuerung, Python ist der Aufgabe gewachsen. Mit der Verwendung von Python können Sie die Basis für große Software-Projekte setzen und dabei ganz simpel anfangen."
+        ]
     },
     {
-        "title": "Python",
+        "title": "React.js",
+        "tech": "react",
         "description": [
-            "lorem ssdfljsdaölkjsad ölkjölkjadsö lkasdjsda asd lkasdjsda asd lkasdjsda asd lkasdjsda asd lkasdjsda asd lkasdjsda asd lkasdjsda asd fasdf sdaf asdfasdf asdfasfdsaddf asfasd fasdfas"
-        ],
-        "image": "board.png"
+            "Eine Bibliothek für die Erstellung von Web-Apps.",
+            "React wurde von Facebook entwickelt und zählt zu den meist genutzten Technologien in der Web-Entwicklung. Neben Facebook, Twitter, Whatsapp, Netflix und Instagram gibt es unzählige erfolgreiche Firmen, die auf React setzen."
+        ]
     },
     {
-        "title": "Python",
+        "title": "Elastic Search",
+        "tech": "elasticsearch",
         "description": [
-            "lorem ssdfljsdaölkjsad ölkjölkjadsö lkasdjsda asd lkasdjsda asd lkasdjsda asd lkasdjsda asd lkasdjsda asd lkasdjsda asd lkasdjsda asd fasdf sdaf asdfasdf asdfasfdsaddf asfasd fasdfas"
-        ],
-        "image": "board.png"
+            "Diese Suchmaschine wird unter anderem von Wikipedia, Microsoft und Netflix verwendet.",
+            "Elastic Search ist frei verfügbar und kann ohne weitere Kosten in Ihre Anwendung integriert werden. Funktionen wie eine Volltextsuche oder das Suchen von Orten im Umkreis sind dabei dabei schon integriert."
+        ]
     },
     {
-        "title": "Python",
+        "title": "Amazon Web Services",
+        "tech": "aws",
         "description": [
-            "lorem ssdfljsdaölkjsad ölkjölkjadsö lkasdjsda asd lkasdjsda asd lkasdjsda asd lkasdjsda asd lkasdjsda asd lkasdjsda asd lkasdjsda asd fasdf sdaf asdfasdf asdfasfdsaddf asfasd fasdfas"
-        ],
-        "image": "board.png"
+            "Nutzen Sie die Vorteile des führenden Anbieter von Cloud Software.",
+            "Hosten Sie ihre Anwendung auf den Servern von Amazon. Ausfallsicher und skalierbar."
+        ]
+    },
+    {
+        "title": "Postgres SQL",
+        "tech": "postgres",
+        "description": [
+            "Sicher, effizient und standardkonform.",
+            "Verwalten Sie Ihre Daten mit Postgres SQL, dem Open-Source Datenbankmanagementsystem."
+        ]
     }
 ]

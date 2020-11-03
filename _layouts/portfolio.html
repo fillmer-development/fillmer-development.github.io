@@ -11,7 +11,7 @@ layout: page
 
         <div class="content">
             <div class="image">
-                <img src="/assets/{{item.image}}" alt="{{image}}">
+                <img src="{{site.data.technologies[item.tech].icon}}" alt="{{site.data.technologies[item.tech].label}}">
             </div>
             <div class="text">
                 {%for paragraph in item.description%}
