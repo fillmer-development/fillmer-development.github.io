@@ -51,7 +51,7 @@
             "content": "zur Anwendung"
         },
         "description": [
-            "Der Kunde wollte eine sehr schlichte Anwendung, mit der er Arbeitsaufwände anhand von <em>time-measurement-units (TMU)</em> planen kann",
+            "Der Kunde wollte eine sehr schlichte Anwendung, mit der er Arbeitsaufwände in der Fertigungsindustrie anhand von <em>time-measurement-units (TMU)</em> planen kann",
             "Die TMU-Daten werden zunächst in das Programm eingelesen, um im nächsten Schritt zur Erstellung von Arbeitsplänen verwendet werden zu können.",
             "<em>Wenn Sie die Anwendung gerne ausprobieren möchten, finden Sie <a download target='window' href='/assets/tmu-grunddaten.csv'>hier</a> passende Beispieldaten dazu. Diese können im Menü (Zahnrad oben rechts klicken) eingefügt werden.</em>"
         ]
