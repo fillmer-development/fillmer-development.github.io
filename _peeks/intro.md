@@ -1,8 +1,7 @@
 ---
 layout: page
 order: 1
-profile: profil.jpg
-title: ''
+categories: intro
 ---
 
 Ihr Dienstleister für Web- und Software-Entwicklung in Paderborn. 

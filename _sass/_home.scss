@@ -1,0 +1,28 @@
+.home{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.peek{
+    order: 1;
+    flex-basis: 100%;
+}
+
+.intro, .character{
+    order: 0;
+    flex-basis: 50%;
+    flex: 1;
+    min-width: 300px;
+    max-width: 100%;
+    padding: .5em;
+}
+
+.character{
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    .profile{
+        height: auto;
+        float: unset
+    }
+}

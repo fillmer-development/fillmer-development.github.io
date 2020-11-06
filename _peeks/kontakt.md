@@ -1,5 +1,5 @@
 ---
-title: Kontakt
+name: Kontakt
 date: 2020-10-13 18:45
 order: 6
 ---

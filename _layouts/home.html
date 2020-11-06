@@ -5,15 +5,14 @@ layout: page
 <div class="home">
     {{ content }}
 
+    {% for peek in site.peeks %}
+    <div class="peek {{peek.categories}}">
 
-    {% for peek in site.peeks | sort 'order' %}
-    {% if peek.title %}
-    <h2>
-        {{peek.title}}
-    </h2>
-    {% endif %}
-    {{peek.content | markdownify}}
-    <a href="{{peek.link}}"></a>
+        {% if peek.name %}
+        <h2>{{peek.name}}</h2>
+        {% endif %}
+        {{peek.content}}
+    </div>
     {% endfor%}
 
 </div>
