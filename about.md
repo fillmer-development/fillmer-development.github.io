@@ -14,9 +14,11 @@ und bin Software-Entwickler in Paderborn.
 
 Schon immer war ich fasziniert von allem Technischen. Ich wollte immer mehr über diese Dinge wissen und selbst welche erfinden. Da war es nur eine Frage der Zeit, bis ich mir selbst das Programmieren beibrachte. 
 
-2013 war es dann soweit, als ich meine erste Webseite baute und schnell an die Grenzen von HTML und CSS stieß. 
+2013 war es dann soweit, als ich 
+> meine erste Webseite 
 
-> Das kann nicht alles sein, dachte ich mir.
+baute und schnell an die Grenzen von HTML und CSS stieß. 
+Das kann nicht alles sein, dachte ich mir.
 
 Und so lernte ich PHP, JavaScript und den Umgang mit Datenbanken, um bald meine erste Webanwendung zu entwickeln.
 
