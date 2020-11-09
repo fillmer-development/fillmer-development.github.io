@@ -6,6 +6,8 @@
 .peek{
     order: 1;
     flex-basis: 100%;
+    display: unset;
+    max-width: 100%;
 }
 
 .intro, .character{
@@ -17,10 +19,16 @@
     padding: .5em;
 }
 
+
+.contact{
+    order: 6;
+}
+
 .character{
     display: flex;
     flex-flow: row nowrap;
     align-items: center;
+    justify-content: space-evenly;
     .profile{
         height: auto;
         float: unset

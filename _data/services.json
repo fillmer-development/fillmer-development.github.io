@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Webapps",
+        "description": [
+            "Performante Anwendungen im Browser.",
+            "Responsiv, zuverlässig und plattformunabhängig."
+        ]
+    },
+    {
+        "title": "UX Design",
+        "description": [
+            "Software die sich sehen lassen kann.",
+            "Sie bekommen eine Benutzeroberfläche die ansprechend und verständlich ist."
+        ]
+    },
+    {
+        "title": "Beratung",
+        "description": [
+            "Kompetente Beratung zu allen Fragen rund um die Entwicklung.",
+            "Sagen Sie nur welches Problem Sie lösen möchten, den Rest übernehme ich."
+        ]
+    },
+    {
+        "title": "Erweiterungen",
+        "description": [
+            "Ergänzen Sie ihre bestehende Software durch weitere Funktionen und erschaffen Sie ein voll integriertes Software-Ökosystem."
+        ]
+    },
+    {
+        "title": "Automatisierung",
+        "description": [
+            "Wenden Sie sich den wichtigen Aufgaben zu.",
+            "Lassen Sie lästige Routine-Aufgaben einfach vom Computer erledigen und sparen so Zeit und Nerven."
+        ]
+    }
+]

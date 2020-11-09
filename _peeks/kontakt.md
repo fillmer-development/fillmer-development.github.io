@@ -1,7 +1,6 @@
 ---
 name: Kontakt
-date: 2020-10-13 18:45
-order: 6
+categories: contact
 ---
 
 Schreiben Sie mir gerne eine unverbindliche Mail mit einer kurzen Auftragsbeschreibung an

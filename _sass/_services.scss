@@ -1,0 +1,14 @@
+.services{
+    display: flex;
+    flex-flow: row wrap;
+
+    .service{
+        margin: 1em;
+        flex-basis: 200px;
+        flex: 1;
+        border: 1px solid #ccc;
+        border-radius: .25em;
+        padding:  .5em;
+        position: relative;
+    }
+}

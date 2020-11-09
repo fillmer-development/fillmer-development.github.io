@@ -1,0 +1,16 @@
+---
+name: Leistungen
+---
+<div class="services">
+
+    {% for service in site.data.services %}
+    <div class="service">
+        <h3>{{service.title}}</h3>
+        {% for line in service.description %}
+        <p>{{line}}</p>
+        {% endfor %}
+
+        <a href="{{service.link}}"></a>
+    </div>
+    {% endfor %}
+</div>
