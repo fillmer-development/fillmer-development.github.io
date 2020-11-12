@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Wie ich arbeite
-header: /assets/workspace.jpg
 ---
 
 Hier können Sie sehen, wie eine Zusammenarbeit mit mir aussieht. 

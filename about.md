@@ -2,7 +2,7 @@
 layout: page
 title: Über Mich
 permalink: /about/
-header: /assets/header.jpg
+header: header.jpg
 profile: profil.jpg
 ---
 

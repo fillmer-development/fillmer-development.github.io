@@ -10,7 +10,9 @@ name: Leistungen
         <p>{{line}}</p>
         {% endfor %}
 
-        <a href="{{service.link}}"></a>
+        <a href="{{service.link.url}}">
+            {{service.link.name}}
+        </a>
     </div>
     {% endfor %}
 </div>

@@ -3,6 +3,8 @@
     flex-flow: row wrap;
 
     .service{
+        display: flex;
+        flex-flow: column nowrap;
         margin: 1em;
         flex-basis: 200px;
         flex: 1;
@@ -10,5 +12,9 @@
         border-radius: .25em;
         padding:  .5em;
         position: relative;
+
+        a{
+            margin-top: auto;
+        }
     }
 }

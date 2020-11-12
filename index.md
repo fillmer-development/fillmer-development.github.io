@@ -1,4 +1,4 @@
 ---
 layout: home
-header: /assets/header.jpg
+header: workspace.jpg
 ---

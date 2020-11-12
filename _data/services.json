@@ -1,6 +1,10 @@
 [
     {
         "title": "Webapps",
+        "link": {
+            "url": "/projects.html",
+            "name": "Beispiele zum Anfassen"
+        },
         "description": [
             "Performante Anwendungen im Browser.",
             "Responsiv, zuverlässig und plattformunabhängig."
@@ -15,9 +19,13 @@
     },
     {
         "title": "Beratung",
+        "link": {
+            "url": "/portfolio.html",
+            "name": "Lesen Sie mehr"
+        },
         "description": [
             "Kompetente Beratung zu allen Fragen rund um die Entwicklung.",
-            "Sagen Sie nur welches Problem Sie lösen möchten, den Rest übernehme ich."
+            "Ich biete Ihnen Fachwissen und Erfahrung, zu bewährten Methoden und den neuesten Trends"
         ]
     },
     {
