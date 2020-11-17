@@ -5,7 +5,7 @@ layout: page
 {{ content }}
 <div class="projects">
 
-    {% for project in site.data.projects | sort 'order' %}
+    {% for project in site.data.projects %}
     <div class="project">
         <h2>{{project.title}}</h2>
         <div class="languages">
