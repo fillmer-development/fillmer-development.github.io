@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Wie ich arbeite
+header: agile.svg
 ---
 
 Hier können Sie sehen, wie eine Zusammenarbeit mit mir aussieht. 
