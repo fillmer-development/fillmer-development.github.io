@@ -1,0 +1,16 @@
+form{
+    display: flex;
+    flex-flow: column nowrap;
+    max-width: 600px;
+    margin: auto;
+
+    input, textarea, button{
+        flex: 1;
+        border: 2px solid cornflowerblue;
+        border-radius: .25em;
+        font-size: large;
+        font-family: inherit;
+        padding: .25em;
+        margin: .25em;
+    }
+}
