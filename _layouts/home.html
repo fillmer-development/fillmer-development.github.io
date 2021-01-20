@@ -8,7 +8,7 @@ layout: page
     {% for peek in site.peeks %}
     <div class="peek {{peek.categories}}">
         {% if peek.name %}
-        <h2>{{peek.name}}</h2>
+        <h2 id="{{peek.title | downcase}}">{{peek.name}}</h2>
         {% endif %}
 
         {{peek.content}}
