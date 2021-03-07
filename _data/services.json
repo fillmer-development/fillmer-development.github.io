@@ -3,7 +3,7 @@
         "title": "Webapps",
         "link": {
             "url": "/projects.html",
-            "name": "Beispiele zum Anfassen"
+            "name": "Beispiele ansehen"
         },
         "description": [
             "Performante Anwendungen im Browser.",
@@ -26,19 +26,6 @@
         "description": [
             "Kompetente Beratung zu allen Fragen rund um die Entwicklung.",
             "Ich biete Ihnen Fachwissen und Erfahrung, zu bewährten Methoden und den neuesten Trends"
-        ]
-    },
-    {
-        "title": "Erweiterungen",
-        "description": [
-            "Ergänzen Sie ihre bestehende Software durch weitere Funktionen und erschaffen Sie ein voll integriertes Software-Ökosystem."
-        ]
-    },
-    {
-        "title": "Automatisierung",
-        "description": [
-            "Wenden Sie sich den wichtigen Aufgaben zu.",
-            "Lassen Sie lästige Routine-Aufgaben einfach vom Computer erledigen und sparen so Zeit und Nerven."
         ]
     }
 ]
