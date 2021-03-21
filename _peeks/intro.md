@@ -4,7 +4,7 @@ order: 1
 categories: intro
 ---
 
-Ihr Dienstleister für Web- und Software-Entwicklung in Paderborn. 
+Individuelle Softwarelösungen für Startups und mittelständische Unternehmen. 
 
 Entscheiden Sie sich für Transparenz, Erfahrung und moderne Technologien.
 
