@@ -10,7 +10,7 @@ Hallo, ich bin
 
 ## Malte Fillmer 
 
-und bin Software-Entwickler in Paderborn.
+und bin Softwareentwickler in Paderborn.
 
 Schon immer war ich fasziniert von allem Technischen. Ich wollte immer mehr über diese Dinge wissen und selbst welche erfinden. Da war es nur eine Frage der Zeit, bis ich mir selbst das Programmieren beibrachte. 
 
