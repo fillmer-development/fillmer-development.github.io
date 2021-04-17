@@ -15,8 +15,8 @@ de: &DEFAULT_DE
       section: portfolio
     - title: "Über mich"
       section: timeline
-    - title: "Referenzen"
-      section: team
+    # - title: "Referenzen"
+    #   section: team
     - title: "Kontakt"
       section: contact
 
