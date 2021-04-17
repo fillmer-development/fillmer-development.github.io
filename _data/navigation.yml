@@ -20,6 +20,17 @@ de: &DEFAULT_DE
     - title: "Kontakt"
       section: contact
 
+de-DE:
+  <<: *DEFAULT_DE
+de-AT:
+  <<: *DEFAULT_DE
+de-CH:
+  <<: *DEFAULT_DE
+de-LI:
+  <<: *DEFAULT_DE
+de-LU:
+  <<: *DEFAULT_DE
+
 # English (default)
 # -----------------
 en: &DEFAULT_EN

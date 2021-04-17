@@ -18,7 +18,7 @@ de: &DEFAULT_DE
 
   services:
     title: "Leistungen"
-    text: "auf die ihr euch freuen könnt"
+    text: ""
     section: services
     list:
       - title: "Beratung"
@@ -33,9 +33,9 @@ de: &DEFAULT_DE
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Beispiele und Technologien"
     section: portfolio
-    closebutton: "Cerrar Proyecto"
+    closebutton: "schließen"
 
   timeline:
     title: "Über mich"
@@ -93,10 +93,10 @@ de: &DEFAULT_DE
 
   team:
     title: "Referenzen"
-    text: "test"
+    text: ""
     people:
       - name: "Kay Garland"
-        role: "Super geil, besser geht es nicht"
+        role: ""
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com

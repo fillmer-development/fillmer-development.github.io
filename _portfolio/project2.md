@@ -1,18 +1,23 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: Image Processing Server
+subtitle: Hochperformante Bilder
+image: /assets/img/portfolio/image_processing.gif
+alt: animation
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  title: Utility
+  subtitle: Open Source
+  thumbnail: /assets/img/portfolio/image_processing_thumbnail.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Dieses Programm ist als Nebenprojekt für eine komplexere Anwendung entstanden
+
+Es ermöglicht das Speichern und einfache Manipulieren von Bildern, ohne dabei lange Wartezeiten zu verursachen.
+
+Gerade auf Webseiten kann man damit langsame Verbindungen kompensieren und die Bilder in verschiedenen Auflösungen präsentieren.
+
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: Mai 2020
+- Client: Open Source
+- Category: Utility
 

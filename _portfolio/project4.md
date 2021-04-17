@@ -1,18 +1,15 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/04-full.jpg
+title: React.js
+subtitle: Eine Bibliothek für die Erstellung von Web-Apps.
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1920px-React.svg.png
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  title: React
+  subtitle: Frontend
+  thumbnail: assets/img/portfolio/react-thumbnail.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
-{:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+React wurde von Facebook entwickelt und zählt zu den meist genutzten Technologien in der Web-Entwicklung. Neben Facebook, Twitter, Netflix und Instagram gibt es unzählige erfolgreiche Firmen, die auf React setzen.
 
+Und ihr könnt dazu gehören. 
