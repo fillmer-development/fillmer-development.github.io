@@ -92,13 +92,11 @@ de: &DEFAULT_DE
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "NUESTRO INCREÍBLE EQUIPO"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: equipo
+    title: "Referenzen"
+    text: "test"
     people:
       - name: "Kay Garland"
-        role: "Lead Designer"
+        role: "Super geil, besser geht es nicht"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -130,18 +128,18 @@ de: &DEFAULT_DE
 
   contact:
     title: "Kontakt"
-    text: "Lorem ipsum or call 123456789"
+    text: "Schreiben Sie mir eine kurze Auftragsbeschreibung oder rufen Sie direkt an!"
     section: contact
-    name: "Nombre*"
-    name-validation: "Por favor ingrese su nombre."
-    email: "Correo Electrónico*"
-    email-validation: "Por favor ingrese su correo electrónico."
-    phone: "Número Telefónico*"
-    phone-validation: "Por favor ingrese su número telefónico."
-    message: "Mensaje*"
-    message-validation: "Por favor escriba un mensaje."
-    subject: "Envío del formulario de contacto"
-    submit: "Enviar Mensaje"
+    name: "Name*"
+    name-validation: "Bitte gib deinen Namen an."
+    email: "Mail*"
+    email-validation: "Bitte gib deine E-Mail-Adresse an."
+    phone: "Telefon*"
+    phone-validation: "Bitte gib deine Nummer an."
+    message: "Nachricht*"
+    message-validation: "Beschreibe kurz dein Projekt."
+    subject: "Kontakt aufnehmen"
+    submit: "Senden"
 
   footer:
     legal: "Política de Privacidad"
