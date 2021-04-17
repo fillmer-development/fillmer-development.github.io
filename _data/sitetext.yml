@@ -25,10 +25,10 @@ de: &DEFAULT_DE
         desc: "Ob Hosting, Projektplanung oder UX-Design, wenn es um IT geht, stehe ich Euch zur Seite."
         icon: fas fa-comments #find more at https://fontawesome.com/icons
       - title: "Entwicklung"
-        desc: "Durch Erfahrung und moderne Methoden bekommt euer Startup ein solides Fundament auf das Ihr bauen könnt."
+        desc: "Durch Erfahrung und moderne Methoden bekommt Euer Startup ein solides Fundament auf das Ihr bauen könnt."
         icon: fas fa-laptop
       - title: "UX-Design"
-        desc: "Software kann nicht nur schön sein, sondern die Nutzer auch magisch anziehen"
+        desc: "Software kann nicht nur schön sein, sondern die Nutzer auch magisch anziehen."
         icon: fab fas fa-drafting-compass
 
   portfolio:
@@ -128,7 +128,7 @@ de: &DEFAULT_DE
 
   contact:
     title: "Kontakt"
-    text: "Schreiben Sie mir eine kurze Auftragsbeschreibung oder rufen Sie direkt an!"
+    text: "Schreib mir worum es geht oder ruf direkt an! (01604041770)"
     section: contact
     name: "Name*"
     name-validation: "Bitte gib deinen Namen an."
