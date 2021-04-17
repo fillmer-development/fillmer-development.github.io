@@ -11,62 +11,62 @@
 # -------
 de: &DEFAULT_DE
   header:
-    title: ¡Bienvenido a nuestro Estudio!
-    text: Es un placer conocerle
-    button: Ver más
-    buttonlink: "#servicios"
+    title: Der IT-Dienstleister für Euer Startup
+    text: Eure Vision wird real
+    button: Kontakt aufnehmen
+    buttonlink: "#contact"
 
   services:
-    title: "Servicios"
-    text: "Lorem ipsum"
-    section: servicios
+    title: "Leistungen"
+    text: "auf die ihr euch freuen könnt"
+    section: services
     list:
-      - title: "Comercio Electrónico"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Diseño Responsivo"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Beratung"
+        desc: "Ob Hosting, Projektplanung oder UX-Design, wenn es um IT geht, stehe ich Euch zur Seite."
+        icon: fas fa-comments #find more at https://fontawesome.com/icons
+      - title: "Entwicklung"
+        desc: "Durch Erfahrung und moderne Methoden bekommt euer Startup ein solides Fundament auf das Ihr bauen könnt."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
-        icon: fab fa-markdown
+      - title: "UX-Design"
+        desc: "Software kann nicht nur schön sein, sondern die Nutzer auch magisch anziehen"
+        icon: fab fas fa-drafting-compass
 
   portfolio:
-    title: "Portafolio"
+    title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portafolio
+    section: portfolio
     closebutton: "Cerrar Proyecto"
 
   timeline:
-    title: "Cronología"
-    text: "Lorem ipsum timeline"
-    section: cronologia
+    title: "Über mich"
+    text: "Malte Fillmer, Softwareentwickler aus Paderborn"
+    section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Nuestro Humilde Comienzo"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Ausbildung zum Anwendungsentwickler"
+        year: "2015-2018"
+        desc: "Duale Ausbildung bei der VerbundVolksbank OWL und der Siemens Professional Education."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Una Agencia nace"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "seit 2018"
+        year: "Studium der Wirtschaftsinformatik"
+        desc: "Universität Paderborn"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "La plantilla Jekyll es creada"
-        year: "2019"
-        desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
+      - title: "Entwickler bei Jobware"
+        year: "2019-2021"
+        desc: "Automatisierung, Data Mining und Androidentwicklung"
         image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Título"
-        year: "2009-2011"
-        desc: "Su descripción aquí, **Markdown** es soportado completamente."
+        alt: 
+      - title: "Endlich Selbstständig"
+        year: "2021"
+        desc: ""
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "¡Se parte <br> de Nuestra <br> Historia!"
+    end: "Hier gibt es bald etwas Neues!"
 
   about:
     title: "Sobre nosotros"
@@ -129,9 +129,9 @@ de: &DEFAULT_DE
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contáctenos"
+    title: "Kontakt"
     text: "Lorem ipsum or call 123456789"
-    section: contacto
+    section: contact
     name: "Nombre*"
     name-validation: "Por favor ingrese su nombre."
     email: "Correo Electrónico*"
