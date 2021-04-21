@@ -50,7 +50,7 @@ de: &DEFAULT_DE
         image: assets/img/timeline/1.jpg
         alt:
       - title: "seit 2018"
-        year: "Studium der Wirtschaftsinformatik"
+        year: "Wirtschaftsinformatik"
         desc: "Universität Paderborn"
         image: assets/img/timeline/2.jpg
         alt:
