@@ -44,7 +44,7 @@ de: &DEFAULT_DE
     # left is the default
     #start_align: "left"
     events:
-      - title: "Ausbildung zum Anwendungsentwickler"
+      - title: "Ausbildung zum Softwareentwickler"
         year: "2015-2018"
         desc: "Duale Ausbildung bei der VerbundVolksbank OWL und der Siemens Professional Education."
         image: assets/img/timeline/1.jpg
