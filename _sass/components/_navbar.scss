@@ -1,6 +1,8 @@
 // Styling for the navbar
 #mainNav {
   background-color: $gray-900;
+  max-width: 100vw;
+  box-sizing: border-box;
   .navbar-toggler {
     font-size: 12px;
     right: 0;

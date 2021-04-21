@@ -2,6 +2,8 @@
 body {
   overflow-x: hidden;
   @include body-font;
+  max-width: 100vw;
+  box-sizing: border-box;
 }
 
 p {
