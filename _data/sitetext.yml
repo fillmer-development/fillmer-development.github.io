@@ -66,7 +66,7 @@ de: &DEFAULT_DE
         alt:
         # you can enforce the alignment
         align: right
-    end: "Hier gibt es bald etwas Neues!"
+    end: "Starte jetzt!"
 
   about:
     title: "Über mich"
@@ -128,7 +128,7 @@ de: &DEFAULT_DE
 
   contact:
     title: "Kontakt"
-    text: "Schreib mir worum es geht oder ruf direkt an! (01604041770)"
+    text: "Wie wollt ihr die Welt verbessern?"
     section: contact
     name: "Name*"
     name-validation: "Bitte gib deinen Namen an."
