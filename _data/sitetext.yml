@@ -28,7 +28,7 @@ de: &DEFAULT_DE
         desc: "Durch Erfahrung und moderne Methoden bekommt Euer Startup ein solides Fundament auf das Ihr bauen könnt."
         icon: fas fa-laptop
       - title: "UX-Design"
-        desc: "Software kann nicht nur schön sein, sondern die Nutzer auch magisch anziehen."
+        desc: "Ein gutes Design, dass sich selbst dem Nutzer erklärt ist genau so wichtig, wie die Funktionalität. Gut, wenn alles aus einer Hand kommt."
         icon: fab fas fa-drafting-compass
 
   portfolio:
